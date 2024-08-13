@@ -14,7 +14,7 @@ role: Msc.
 
 # Organizations/Affiliations
 organizations:
-- name: Dynatrace
+- name: Petronas
   url: http://dynatrace.com/
 #- name: Barcelona Supercomputing Center
 #  url: "https://www.bsc.es/"
@@ -22,7 +22,7 @@ organizations:
 #  url: "https://www.upc.edu/es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Dr. Najmi Test works as a Team Lead at Dynatrace."
+bio: "Dr. Najmi Test works as a Team Lead at Petronas."
 
 interests:
 - Communication & People Management
