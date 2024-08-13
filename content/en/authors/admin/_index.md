@@ -1,6 +1,6 @@
 ---
 # Display name
-name: "Cristián Ramón-Cortés Vilarrodona"
+name: "Najmi Test"
 
 # Username (this should match the folder name)
 authors:
@@ -22,7 +22,7 @@ organizations:
 #  url: "https://www.upc.edu/es"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Dr. Cristián Ramón-Cortés Vilarrodona works as a Team Lead at Dynatrace."
+bio: "Dr. Najmi Test works as a Team Lead at Dynatrace."
 
 interests:
 - Communication & People Management
